@@ -1,6 +1,6 @@
 {
-  "name": "design-token-transformer",
-  "version": "0.6.0",
+  "name": "tic-tac-toe-design-tokens",
+  "version": "0.6.2",
   "description": "Base repo to transform json design tokens from the figma design token plugin via amazon style directory.",
   "main": "index.js",
   "dependencies": {
@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lukasoppermann/design-token-transformer.git"
+    "url": "git+https://github.com/Katsu08/tic-tac-toe-design-token.git"
   },
-  "author": "Lukas Oppermann",
+  "author": "Katsu08",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lukasoppermann/design-token-transformer/issues"
+    "url": "https://github.com/Katsu08/tic-tac-toe-design-token/issues"
   },
-  "homepage": "https://github.com/lukasoppermann/design-token-transformer#readme"
+  "homepage": "https://github.com/Katsu08/tic-tac-toe-design-token#readme"
 }
