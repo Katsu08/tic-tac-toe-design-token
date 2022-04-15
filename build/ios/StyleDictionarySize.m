@@ -4,13 +4,13 @@
 //
 
 // Do not edit directly
-// Generated on Sun, 10 Apr 2022 21:28:46 GMT
+// Generated on Fri, 15 Apr 2022 20:39:00 GMT
 
 
 #import "StyleDictionarySize.h"
 
 
-float const TypographyTextXxlFontWeight = 600;
-float const TypographyTextLgFontWeight = 600;
-float const TypographyTextBaseFontWeight = 600;
-float const TypographyTextDeskPlayerFontWeight = 800;
+float const TypographyXxlFontWeight = 600;
+float const TypographyLgFontWeight = 600;
+float const TypographyBaseFontWeight = 600;
+float const TypographyDeskPlayerFontWeight = 800;
